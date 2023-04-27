@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQConsumerFirst", "RabbitMQConsumerFirst\RabbitMQConsumerFirst.csproj", "{A406BC57-7A4E-48B4-996F-1A8814CCDD8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A406BC57-7A4E-48B4-996F-1A8814CCDD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A406BC57-7A4E-48B4-996F-1A8814CCDD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A406BC57-7A4E-48B4-996F-1A8814CCDD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A406BC57-7A4E-48B4-996F-1A8814CCDD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
