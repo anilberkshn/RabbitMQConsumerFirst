@@ -11,7 +11,7 @@ namespace RabbitMQTest2
             var connectionFactory = new ConnectionFactory
             {
                 HostName = "localhost", // RabbitMQ'nun bulunduğu sunucu adresi
-                // Port = 5672, // RabbitMQ'nun kullanacağı bağlantı noktası
+                Port = 5672, // RabbitMQ'nun kullanacağı bağlantı noktası
                 VirtualHost = "/" // RabbitMQ sanal ana bilgisayar (virtual host)
             };
             var connection = connectionFactory.CreateConnection();
