@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQConsumerFirst", "Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQConsumer2", "RabbitMQConsumer2\RabbitMQConsumer2.csproj", "{85F09DEA-1B05-40E3-A281-F20A0E65B327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer3", "RabbitConsumer3\RabbitConsumer3.csproj", "{F0252D21-9114-4D23-8D32-DD09014E3CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer4", "RabbitConsumer4\RabbitConsumer4.csproj", "{59D89E78-1252-44B0-962D-9FEEC694E85A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{85F09DEA-1B05-40E3-A281-F20A0E65B327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85F09DEA-1B05-40E3-A281-F20A0E65B327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85F09DEA-1B05-40E3-A281-F20A0E65B327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0252D21-9114-4D23-8D32-DD09014E3CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0252D21-9114-4D23-8D32-DD09014E3CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0252D21-9114-4D23-8D32-DD09014E3CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0252D21-9114-4D23-8D32-DD09014E3CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
