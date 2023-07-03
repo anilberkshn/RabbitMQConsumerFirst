@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer3", "RabbitCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer4", "RabbitConsumer4\RabbitConsumer4.csproj", "{59D89E78-1252-44B0-962D-9FEEC694E85A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumerForApi", "RabbitConsumerForApi\RabbitConsumerForApi.csproj", "{602CAACB-B677-4602-860E-C664946B3580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerDeleteConsumer", "CustomerDeleteConsumer\CustomerDeleteConsumer.csproj", "{214C3670-F6C1-4B54-86F7-584AB3D61A26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59D89E78-1252-44B0-962D-9FEEC694E85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602CAACB-B677-4602-860E-C664946B3580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602CAACB-B677-4602-860E-C664946B3580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602CAACB-B677-4602-860E-C664946B3580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602CAACB-B677-4602-860E-C664946B3580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214C3670-F6C1-4B54-86F7-584AB3D61A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214C3670-F6C1-4B54-86F7-584AB3D61A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214C3670-F6C1-4B54-86F7-584AB3D61A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214C3670-F6C1-4B54-86F7-584AB3D61A26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
